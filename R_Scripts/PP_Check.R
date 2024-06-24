@@ -7,8 +7,8 @@ library(scales)
 
 source("R_scripts/Data_Compilation.R")
 
-mod <- readRDS("RDS_files/BHfit.RDS")
-mod.df <- as.data.frame(mod)
+mod.df <- readRDS("RDS_files/BHdf.RDS")
+
 
 dat$foc <- match(dat$foc, unique(dat$foc))
 dat$comp <- match(dat$comp, unique(dat$comp)[-1])
