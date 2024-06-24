@@ -1,0 +1,1 @@
+Taxonomy was assigned using the UNITE general release fungal reference database, with a release date of 2022-11-29.

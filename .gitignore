@@ -1,2 +1,5 @@
 /bioinformatics/remove_non-cams.py
 *.idea
+/bioinformatics/dada2_pipeline_newer
+/bioinformatics/dada2_pipeline_older
+/bioinformatics/taxonomy-db/sh_general_release_dynamic_29.11.2022.fasta
